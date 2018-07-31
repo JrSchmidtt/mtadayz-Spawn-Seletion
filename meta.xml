@@ -1,0 +1,5 @@
+<meta>
+    <info name="spawn-selector" description="Spawn Selector" author="TioSmoke/Will/MX/chiip - 2018" type="misc" version="2.0"/>
+	<script src="spawn_selection_c.lua" type="client" cache="false" />
+	<file src="spawn_select.png" />
+</meta>
